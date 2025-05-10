@@ -47,10 +47,6 @@ The choice of Rust and WebGPU was deliberate to ensure safety and performance wh
 
 *Note: Specific build instructions may vary based on your system's configuration.*
 
-## 📸 Screenshots
-
-*Include screenshots or GIFs of the particle simulator in action here.*
-
 ## 📚 Resources
 
 * [WebGPU Specification](https://gpuweb.github.io/gpuweb/)
