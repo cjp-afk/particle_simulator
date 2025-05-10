@@ -1,9 +1,3 @@
-[![A GPU Approach to Particle Physics](https://tse3.mm.bing.net/th?id=OIP.WnoNO3pS9Qo3idIQkMPIaQHaFj\&cb=iwp1\&pid=Api)](https://nullprogram.com/blog/2014/06/29/)
-
-Certainly! Based on your description and the repository content, here's a professional, blog-style `README.md` tailored to your learning project:
-
----
-
 # Particle Simulator
 
 **A Minimal GPU-Accelerated Particle System Built from Scratch**
@@ -62,11 +56,3 @@ The choice of Rust and WebGPU was deliberate to ensure safety and performance wh
 * [WebGPU Specification](https://gpuweb.github.io/gpuweb/)
 * [Rust Programming Language](https://www.rust-lang.org/)
 * [WGSL Specification](https://www.w3.org/TR/WGSL/)
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this `README.md` further to align with any additional features or insights you wish to highlight.
